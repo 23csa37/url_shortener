@@ -314,6 +314,8 @@ We utilize the `express-validator` library on the backend to enforce:
 5. Telemetry details are logged and broadcast via WebSockets.
 6. Server sends `302 Found` response redirecting the client browser.
 
----
+-------------
+Video Demo link: https://youtu.be/T6fuMIPOH2Y
+--------------
 
 This project is a part of a hackathon run by https://katomaran.com
